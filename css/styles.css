@@ -1,0 +1,297 @@
+/* 
+    Document   : styles
+    Created on : Jan 19, 2010, 8:54:42 PM
+    Author     : Admin
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+/* Z-index of #mask must lower than #boxes .window */
+#mask {
+    position:absolute;
+    z-index:9000;
+    background-color:#000;
+    display:none;  
+}
+
+#boxes .window {
+    position:absolute;
+    width:440px;
+    height:200px;
+    display:none;
+    z-index:9999;
+    padding:20px;
+}
+
+
+/* Customize your modal window here, you can add background image too */
+#boxes #dialog {
+    width:375px;
+    height:203px;
+}
+
+root { 
+    display: block;
+}
+
+body {
+    background: #000000;
+}
+
+a, a:link, a:hover, a:visited, a:active {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #f70d01;
+}
+
+a.blue-link {
+    color:blue;
+    text-decoration:underline;
+}
+
+a.category-top, a.category-top:link, a.category-top:visited, a.category-top:active {
+    color: #f70d01;
+}
+
+a.category-top:hover {
+    color: #fff;
+}
+
+a.link {
+    font-weight:bold;
+    text-decoration:underline;
+    color:#ab1d22;
+}
+
+#navigation a {
+    display:block;
+    background: url("/css/images/nav-button.png") no-repeat;
+    height:65px;
+    width:180px;
+}
+
+#navigation a:hover {
+    background: url("/css/images/nav-button-hover.png") no-repeat;
+    font-weight: bold;
+}
+
+#page {
+    background: url("/css/images/page-bg.gif") no-repeat transparent;
+    width: 915px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#header {
+    width: auto;
+    margin: 0;
+    padding: 0;
+}
+
+#navigation {
+    height: 67px;
+    width: 100%;
+    padding-top: 188px;
+}
+
+#navigation ul {
+    float: left;
+    list-style-type: none;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+#navigation ul li {
+    display: inline;
+}
+
+#content {
+    height: 100%;
+    padding: 15px 20px 5px 5px;
+    min-height:300px;
+    height:auto !important;
+    height:300px;
+    color:#fff;
+}
+
+#content h1 {
+    color: #fff;
+    margin: 0px;
+    padding: 10px 0px 0px 0px;
+}
+
+#content h3 {
+    color: #ab1d22;
+    text-align: left;
+}
+
+#content h4 {
+    color: #ab1d22;
+    margin: 0px 5px;
+}
+
+#content p {
+    text-align: left;
+}
+
+label {
+    color: #fff;
+}
+
+#content #google-map {
+    height:500px;
+    width:500px;
+}
+
+#content #left-column {
+    width: 60%;
+    float: left;
+}
+
+#content #right-column {
+    width: 40%;
+    float: right;
+}
+
+#content #large-info {
+    width:495px;
+    height:212px;
+    background: url("/css/images/large-info.png") no-repeat transparent;
+}
+
+#content #large-info-header {
+    height:50px;
+    width:300px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#content #small-info {
+    width:238px;
+    height:212px;
+    background: url("/css/images/small-info.png") no-repeat transparent;
+}
+
+#content #small-info-header {
+    height:50px;
+    width:238px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#small-info ul {
+    list-style:none;
+    padding:0px;
+    margin:0px;
+    text-align:left;
+}
+
+#content #small-info-content {
+    height:131px;
+    width:202px;
+    padding:20px 12px 5px 12px;
+    position:relative;
+    margin:0;
+}
+
+#customer-login {
+    width:345px;
+    padding:55px 0px 35px 0px;
+    margin-bottom:10px;
+    clear:both;
+    background: url("/css/images/customer-login.png") no-repeat transparent;
+}
+
+#customer-login label {
+    color:#fff;
+}
+
+#login input {
+    width:200px;
+}
+
+#ff-wings {
+    width:335px;
+    height:340px;
+    margin:0;
+    background: url("/css/images/55-wings.png") no-repeat transparent;
+}
+
+.marquee {
+    position:relative;
+    overflow:hidden;
+    width:476px;
+    height:128px;
+}
+
+div #feedback, div #address, div #emp-opportunities {
+    padding: 0px 20px;
+}
+
+div #footer p {
+    text-align: center;
+    font-size: 11px;
+    padding: 0;
+    margin: 0;
+}
+
+#footer {
+    color: #fff;
+    clear:both;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
+
+/* jquery stuff */
+#slideshow {
+    position:relative;
+    height:305px;
+}
+
+#slideshow IMG {
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:8;
+    opacity:0.0;
+    margin-left:45px;
+}
+
+#slideshow IMG.active {
+    z-index:10;
+    opacity:1.0;
+}
+
+#slideshow IMG.last-active {
+    z-index:9;
+}
+
+/* one-offs */
+div #productMainImage, #productDetailsList,
+div #productReviewLink, div #productTellFriendLink,
+div #whatsnew, #productDateAdded, #cartImage,
+.listingBuyNowButton, #reviews, #information, #sorter {
+    display:none;
+}
+
+tr .rowEven, tr .rowOdd {
+    background-color: transparent;
+}
+
+td .productListing-data {
+    vertical-align: top;
+    height: 25px;
+}

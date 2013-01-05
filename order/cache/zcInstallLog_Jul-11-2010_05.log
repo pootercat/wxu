@@ -1,0 +1,870 @@
+---------------
+Jul 11 2010 17:12 -- inspect
+store configure.php is not writeable
+
+---------------
+Jul 11 2010 17:12 -- inspect
+System Inspection Results: 
+------------------------------
+NA: Webserver => Microsoft-IIS/6.0
+NA: HTTP Host => wingsxtremeu.com
+NA: Path_Translated => D:\inetpub\wingsxtremeu\order\zc_install\index.php
+NA: Real Path => D:\Inetpub\wingsxtremeu\order
+NA: PHP O/S => WINNT
+NA: PHP API Mode => cgi-fcgi
+NA: PHP Max Execution Time per page => 30
+NA: Disabled PHP Functions => system,exec,passthru,shell_exec
+OK: Register Globals => OFF
+OK: MySQL Support => ON
+OK: PHP Version => 5.2.13
+OK: PHP Safe Mode => OFF
+OK: PHP Sessions Support => ON
+OK: PHP Session.AutoStart => OFF
+OK: PHP session.use_trans_sid => OFF
+OK: Suggested SQL Cache Folder => D:/Inetpub/wingsxtremeu/order/cache
+OK: PHP magic_quotes_runtime setting => OFF
+OK: PHP magic_quotes_sybase setting => OFF
+OK: PHP GD Support => ON
+OK: GD Version => GD bundled (2.0.34 compatible)
+OK: PHP ZLIB Compression Support => ON
+OK: PHP OpenSSL Support => ON
+OK: PHP cURL Support => ON
+OK: CURL NON-SSL Capability => Okay
+OK: CURL SSL Capability => Okay
+OK: PHP Upload Support => ON  upload_max_filesize=16M;  post_max_size=8M
+OK: PHP Upload TMP dir => C:\PHP5\uploadtemp
+NA: PHP include_path => .;c:\PHP5
+NA: PHP SMTP destination => localhost
+NA: PHP sendmail path => 
+NA: PHP sendmail 'from' => 
+OK: PHP open_basedir restrictions => 
+OK: PHP Output Buffering (gzip) => ON
+OK: PHP FTP Support => ON
+OK: PHP XML Support => ON
+OK: PHP Session.Save_Path => D:\Inetpub\wingsxtremeu\order\cache-->Writeable
+FAIL: includes/configure.php =>  <span class='errors'>Unwriteable</span>
+OK: admin/includes/configure.php =>  Writeable
+OK: cache => OK 777 read/write/execute
+OK: images => OK 777 read/write/execute (INCLUDE SUBDIRECTORIES TOO)
+OK: includes/languages/english/html_includes => OK 777 read/write (INCLUDE SUBDIRECTORIES TOO)
+OK: media => OK 777 read/write/execute
+OK: pub => OK 777 read/write/execute
+OK: admin/backups => OK 777 read/write
+OK: admin/images/graphs => OK 777 read/write/execute
+PHP Extensions compiled: bcmath, calendar, com_dotnet, ctype, date, filter, ftp, hash, iconv, json, odbc, pcre, Reflection, session, libxml, standard, tokenizer, zlib, SimpleXML, dom, SPL, wddx, xml, xmlreader, xmlwriter, cgi-fcgi, mbstring, curl, exif, fdf, gd, gettext, imap, mcrypt, mhash, mssql, mysql, openssl, PDO, pdo_mssql, pdo_mysql, soap, sockets, tidy, xsl, ionCube Loader, Zend Optimizer
+------------------------------
+
+
+---------------
+Jul 11 2010 17:26 -- inspect
+store configure.php is not writeable
+
+---------------
+Jul 11 2010 17:26 -- inspect
+System Inspection Results: 
+------------------------------
+NA: Webserver => Microsoft-IIS/6.0
+NA: HTTP Host => wingsxtremeu.com
+NA: Path_Translated => D:\inetpub\wingsxtremeu\order\zc_install\index.php
+NA: Real Path => D:\Inetpub\wingsxtremeu\order
+NA: PHP O/S => WINNT
+NA: PHP API Mode => cgi-fcgi
+NA: PHP Max Execution Time per page => 30
+NA: Disabled PHP Functions => system,exec,passthru,shell_exec
+OK: Register Globals => OFF
+OK: MySQL Support => ON
+OK: PHP Version => 5.2.13
+OK: PHP Safe Mode => OFF
+OK: PHP Sessions Support => ON
+OK: PHP Session.AutoStart => OFF
+OK: PHP session.use_trans_sid => OFF
+OK: Suggested SQL Cache Folder => D:/Inetpub/wingsxtremeu/order/cache
+OK: PHP magic_quotes_runtime setting => OFF
+OK: PHP magic_quotes_sybase setting => OFF
+OK: PHP GD Support => ON
+OK: GD Version => GD bundled (2.0.34 compatible)
+OK: PHP ZLIB Compression Support => ON
+OK: PHP OpenSSL Support => ON
+OK: PHP cURL Support => ON
+OK: CURL NON-SSL Capability => Okay
+OK: CURL SSL Capability => Okay
+OK: PHP Upload Support => ON  upload_max_filesize=16M;  post_max_size=8M
+OK: PHP Upload TMP dir => C:\PHP5\uploadtemp
+NA: PHP include_path => .;c:\PHP5
+NA: PHP SMTP destination => localhost
+NA: PHP sendmail path => 
+NA: PHP sendmail 'from' => 
+OK: PHP open_basedir restrictions => 
+OK: PHP Output Buffering (gzip) => ON
+OK: PHP FTP Support => ON
+OK: PHP XML Support => ON
+OK: PHP Session.Save_Path => D:\Inetpub\wingsxtremeu\order\cache-->Writeable
+FAIL: includes/configure.php =>  <span class='errors'>Unwriteable</span>
+OK: admin/includes/configure.php =>  Writeable
+OK: cache => OK 777 read/write/execute
+OK: images => OK 777 read/write/execute (INCLUDE SUBDIRECTORIES TOO)
+OK: includes/languages/english/html_includes => OK 777 read/write (INCLUDE SUBDIRECTORIES TOO)
+OK: media => OK 777 read/write/execute
+OK: pub => OK 777 read/write/execute
+OK: admin/backups => OK 777 read/write
+OK: admin/images/graphs => OK 777 read/write/execute
+PHP Extensions compiled: bcmath, calendar, com_dotnet, ctype, date, filter, ftp, hash, iconv, json, odbc, pcre, Reflection, session, libxml, standard, tokenizer, zlib, SimpleXML, dom, SPL, wddx, xml, xmlreader, xmlwriter, cgi-fcgi, mbstring, curl, exif, fdf, gd, gettext, imap, mcrypt, mhash, mssql, mysql, openssl, PDO, pdo_mssql, pdo_mysql, soap, sockets, tidy, xsl, ionCube Loader, Zend Optimizer
+------------------------------
+
+
+---------------
+Jul 11 2010 17:26 -- inspect
+store configure.php is not writeable
+
+---------------
+Jul 11 2010 17:26 -- inspect
+System Inspection Results: 
+------------------------------
+NA: Webserver => Microsoft-IIS/6.0
+NA: HTTP Host => wingsxtremeu.com
+NA: Path_Translated => D:\inetpub\wingsxtremeu\order\zc_install\index.php
+NA: Real Path => D:\Inetpub\wingsxtremeu\order
+NA: PHP O/S => WINNT
+NA: PHP API Mode => cgi-fcgi
+NA: PHP Max Execution Time per page => 30
+NA: Disabled PHP Functions => system,exec,passthru,shell_exec
+OK: Register Globals => OFF
+OK: MySQL Support => ON
+OK: PHP Version => 5.2.13
+OK: PHP Safe Mode => OFF
+OK: PHP Sessions Support => ON
+OK: PHP Session.AutoStart => OFF
+OK: PHP session.use_trans_sid => OFF
+OK: Suggested SQL Cache Folder => D:/Inetpub/wingsxtremeu/order/cache
+OK: PHP magic_quotes_runtime setting => OFF
+OK: PHP magic_quotes_sybase setting => OFF
+OK: PHP GD Support => ON
+OK: GD Version => GD bundled (2.0.34 compatible)
+OK: PHP ZLIB Compression Support => ON
+OK: PHP OpenSSL Support => ON
+OK: PHP cURL Support => ON
+OK: CURL NON-SSL Capability => Okay
+OK: CURL SSL Capability => Okay
+OK: PHP Upload Support => ON  upload_max_filesize=16M;  post_max_size=8M
+OK: PHP Upload TMP dir => C:\PHP5\uploadtemp
+NA: PHP include_path => .;c:\PHP5
+NA: PHP SMTP destination => localhost
+NA: PHP sendmail path => 
+NA: PHP sendmail 'from' => 
+OK: PHP open_basedir restrictions => 
+OK: PHP Output Buffering (gzip) => ON
+OK: PHP FTP Support => ON
+OK: PHP XML Support => ON
+OK: PHP Session.Save_Path => D:\Inetpub\wingsxtremeu\order\cache-->Writeable
+FAIL: includes/configure.php =>  <span class='errors'>Unwriteable</span>
+OK: admin/includes/configure.php =>  Writeable
+OK: cache => OK 777 read/write/execute
+OK: images => OK 777 read/write/execute (INCLUDE SUBDIRECTORIES TOO)
+OK: includes/languages/english/html_includes => OK 777 read/write (INCLUDE SUBDIRECTORIES TOO)
+OK: media => OK 777 read/write/execute
+OK: pub => OK 777 read/write/execute
+OK: admin/backups => OK 777 read/write
+OK: admin/images/graphs => OK 777 read/write/execute
+PHP Extensions compiled: bcmath, calendar, com_dotnet, ctype, date, filter, ftp, hash, iconv, json, odbc, pcre, Reflection, session, libxml, standard, tokenizer, zlib, SimpleXML, dom, SPL, wddx, xml, xmlreader, xmlwriter, cgi-fcgi, mbstring, curl, exif, fdf, gd, gettext, imap, mcrypt, mhash, mssql, mysql, openssl, PDO, pdo_mssql, pdo_mysql, soap, sockets, tidy, xsl, ionCube Loader, Zend Optimizer
+------------------------------
+
+
+---------------
+Jul 11 2010 17:27 -- inspect
+store configure.php is not writeable
+
+---------------
+Jul 11 2010 17:27 -- inspect
+System Inspection Results: 
+------------------------------
+NA: Webserver => Microsoft-IIS/6.0
+NA: HTTP Host => wingsxtremeu.com
+NA: Path_Translated => D:\inetpub\wingsxtremeu\order\zc_install\index.php
+NA: Real Path => D:\Inetpub\wingsxtremeu\order
+NA: PHP O/S => WINNT
+NA: PHP API Mode => cgi-fcgi
+NA: PHP Max Execution Time per page => 30
+NA: Disabled PHP Functions => system,exec,passthru,shell_exec
+OK: Register Globals => OFF
+OK: MySQL Support => ON
+OK: PHP Version => 5.2.13
+OK: PHP Safe Mode => OFF
+OK: PHP Sessions Support => ON
+OK: PHP Session.AutoStart => OFF
+OK: PHP session.use_trans_sid => OFF
+OK: Suggested SQL Cache Folder => D:/Inetpub/wingsxtremeu/order/cache
+OK: PHP magic_quotes_runtime setting => OFF
+OK: PHP magic_quotes_sybase setting => OFF
+OK: PHP GD Support => ON
+OK: GD Version => GD bundled (2.0.34 compatible)
+OK: PHP ZLIB Compression Support => ON
+OK: PHP OpenSSL Support => ON
+OK: PHP cURL Support => ON
+OK: CURL NON-SSL Capability => Okay
+OK: CURL SSL Capability => Okay
+OK: PHP Upload Support => ON  upload_max_filesize=16M;  post_max_size=8M
+OK: PHP Upload TMP dir => C:\PHP5\uploadtemp
+NA: PHP include_path => .;c:\PHP5
+NA: PHP SMTP destination => localhost
+NA: PHP sendmail path => 
+NA: PHP sendmail 'from' => 
+OK: PHP open_basedir restrictions => 
+OK: PHP Output Buffering (gzip) => ON
+OK: PHP FTP Support => ON
+OK: PHP XML Support => ON
+OK: PHP Session.Save_Path => D:\Inetpub\wingsxtremeu\order\cache-->Writeable
+FAIL: includes/configure.php =>  <span class='errors'>Unwriteable</span>
+OK: admin/includes/configure.php =>  Writeable
+OK: cache => OK 777 read/write/execute
+OK: images => OK 777 read/write/execute (INCLUDE SUBDIRECTORIES TOO)
+OK: includes/languages/english/html_includes => OK 777 read/write (INCLUDE SUBDIRECTORIES TOO)
+OK: media => OK 777 read/write/execute
+OK: pub => OK 777 read/write/execute
+OK: admin/backups => OK 777 read/write
+OK: admin/images/graphs => OK 777 read/write/execute
+PHP Extensions compiled: bcmath, calendar, com_dotnet, ctype, date, filter, ftp, hash, iconv, json, odbc, pcre, Reflection, session, libxml, standard, tokenizer, zlib, SimpleXML, dom, SPL, wddx, xml, xmlreader, xmlwriter, cgi-fcgi, mbstring, curl, exif, fdf, gd, gettext, imap, mcrypt, mhash, mssql, mysql, openssl, PDO, pdo_mssql, pdo_mysql, soap, sockets, tidy, xsl, ionCube Loader, Zend Optimizer
+------------------------------
+
+
+---------------
+Jul 11 2010 17:27 -- inspect
+store configure.php is not writeable
+
+---------------
+Jul 11 2010 17:27 -- inspect
+System Inspection Results: 
+------------------------------
+NA: Webserver => Microsoft-IIS/6.0
+NA: HTTP Host => wingsxtremeu.com
+NA: Path_Translated => D:\inetpub\wingsxtremeu\order\zc_install\index.php
+NA: Real Path => D:\Inetpub\wingsxtremeu\order
+NA: PHP O/S => WINNT
+NA: PHP API Mode => cgi-fcgi
+NA: PHP Max Execution Time per page => 30
+NA: Disabled PHP Functions => system,exec,passthru,shell_exec
+OK: Register Globals => OFF
+OK: MySQL Support => ON
+OK: PHP Version => 5.2.13
+OK: PHP Safe Mode => OFF
+OK: PHP Sessions Support => ON
+OK: PHP Session.AutoStart => OFF
+OK: PHP session.use_trans_sid => OFF
+OK: Suggested SQL Cache Folder => D:/Inetpub/wingsxtremeu/order/cache
+OK: PHP magic_quotes_runtime setting => OFF
+OK: PHP magic_quotes_sybase setting => OFF
+OK: PHP GD Support => ON
+OK: GD Version => GD bundled (2.0.34 compatible)
+OK: PHP ZLIB Compression Support => ON
+OK: PHP OpenSSL Support => ON
+OK: PHP cURL Support => ON
+OK: CURL NON-SSL Capability => Okay
+OK: CURL SSL Capability => Okay
+OK: PHP Upload Support => ON  upload_max_filesize=16M;  post_max_size=8M
+OK: PHP Upload TMP dir => C:\PHP5\uploadtemp
+NA: PHP include_path => .;c:\PHP5
+NA: PHP SMTP destination => localhost
+NA: PHP sendmail path => 
+NA: PHP sendmail 'from' => 
+OK: PHP open_basedir restrictions => 
+OK: PHP Output Buffering (gzip) => ON
+OK: PHP FTP Support => ON
+OK: PHP XML Support => ON
+OK: PHP Session.Save_Path => D:\Inetpub\wingsxtremeu\order\cache-->Writeable
+FAIL: includes/configure.php =>  <span class='errors'>Unwriteable</span>
+OK: admin/includes/configure.php =>  Writeable
+OK: cache => OK 777 read/write/execute
+OK: images => OK 777 read/write/execute (INCLUDE SUBDIRECTORIES TOO)
+OK: includes/languages/english/html_includes => OK 777 read/write (INCLUDE SUBDIRECTORIES TOO)
+OK: media => OK 777 read/write/execute
+OK: pub => OK 777 read/write/execute
+OK: admin/backups => OK 777 read/write
+OK: admin/images/graphs => OK 777 read/write/execute
+PHP Extensions compiled: bcmath, calendar, com_dotnet, ctype, date, filter, ftp, hash, iconv, json, odbc, pcre, Reflection, session, libxml, standard, tokenizer, zlib, SimpleXML, dom, SPL, wddx, xml, xmlreader, xmlwriter, cgi-fcgi, mbstring, curl, exif, fdf, gd, gettext, imap, mcrypt, mhash, mssql, mysql, openssl, PDO, pdo_mssql, pdo_mysql, soap, sockets, tidy, xsl, ionCube Loader, Zend Optimizer
+------------------------------
+
+
+---------------
+Jul 11 2010 17:30 -- inspect
+store configure.php is not writeable
+
+---------------
+Jul 11 2010 17:30 -- inspect
+System Inspection Results: 
+------------------------------
+NA: Webserver => Microsoft-IIS/6.0
+NA: HTTP Host => wingsxtremeu.com
+NA: Path_Translated => D:\inetpub\wingsxtremeu\order\zc_install\index.php
+NA: Real Path => D:\Inetpub\wingsxtremeu\order
+NA: PHP O/S => WINNT
+NA: PHP API Mode => cgi-fcgi
+NA: PHP Max Execution Time per page => 30
+NA: Disabled PHP Functions => system,exec,passthru,shell_exec
+OK: Register Globals => OFF
+OK: MySQL Support => ON
+OK: PHP Version => 5.2.13
+OK: PHP Safe Mode => OFF
+OK: PHP Sessions Support => ON
+OK: PHP Session.AutoStart => OFF
+OK: PHP session.use_trans_sid => OFF
+OK: Suggested SQL Cache Folder => D:/Inetpub/wingsxtremeu/order/cache
+OK: PHP magic_quotes_runtime setting => OFF
+OK: PHP magic_quotes_sybase setting => OFF
+OK: PHP GD Support => ON
+OK: GD Version => GD bundled (2.0.34 compatible)
+OK: PHP ZLIB Compression Support => ON
+OK: PHP OpenSSL Support => ON
+OK: PHP cURL Support => ON
+OK: CURL NON-SSL Capability => Okay
+OK: CURL SSL Capability => Okay
+OK: PHP Upload Support => ON  upload_max_filesize=16M;  post_max_size=8M
+OK: PHP Upload TMP dir => C:\PHP5\uploadtemp
+NA: PHP include_path => .;c:\PHP5
+NA: PHP SMTP destination => localhost
+NA: PHP sendmail path => 
+NA: PHP sendmail 'from' => 
+OK: PHP open_basedir restrictions => 
+OK: PHP Output Buffering (gzip) => ON
+OK: PHP FTP Support => ON
+OK: PHP XML Support => ON
+OK: PHP Session.Save_Path => D:\Inetpub\wingsxtremeu\order\cache-->Writeable
+FAIL: includes/configure.php =>  <span class='errors'>Unwriteable</span>
+OK: admin/includes/configure.php =>  Writeable
+OK: cache => OK 777 read/write/execute
+OK: images => OK 777 read/write/execute (INCLUDE SUBDIRECTORIES TOO)
+OK: includes/languages/english/html_includes => OK 777 read/write (INCLUDE SUBDIRECTORIES TOO)
+OK: media => OK 777 read/write/execute
+OK: pub => OK 777 read/write/execute
+OK: admin/backups => OK 777 read/write
+OK: admin/images/graphs => OK 777 read/write/execute
+PHP Extensions compiled: bcmath, calendar, com_dotnet, ctype, date, filter, ftp, hash, iconv, json, odbc, pcre, Reflection, session, libxml, standard, tokenizer, zlib, SimpleXML, dom, SPL, wddx, xml, xmlreader, xmlwriter, cgi-fcgi, mbstring, curl, exif, fdf, gd, gettext, imap, mcrypt, mhash, mssql, mysql, openssl, PDO, pdo_mssql, pdo_mysql, soap, sockets, tidy, xsl, ionCube Loader, Zend Optimizer
+------------------------------
+
+
+---------------
+Jul 11 2010 17:30 -- inspect
+store configure.php is not writeable
+
+---------------
+Jul 11 2010 17:30 -- inspect
+System Inspection Results: 
+------------------------------
+NA: Webserver => Microsoft-IIS/6.0
+NA: HTTP Host => wingsxtremeu.com
+NA: Path_Translated => D:\inetpub\wingsxtremeu\order\zc_install\index.php
+NA: Real Path => D:\Inetpub\wingsxtremeu\order
+NA: PHP O/S => WINNT
+NA: PHP API Mode => cgi-fcgi
+NA: PHP Max Execution Time per page => 30
+NA: Disabled PHP Functions => system,exec,passthru,shell_exec
+OK: Register Globals => OFF
+OK: MySQL Support => ON
+OK: PHP Version => 5.2.13
+OK: PHP Safe Mode => OFF
+OK: PHP Sessions Support => ON
+OK: PHP Session.AutoStart => OFF
+OK: PHP session.use_trans_sid => OFF
+OK: Suggested SQL Cache Folder => D:/Inetpub/wingsxtremeu/order/cache
+OK: PHP magic_quotes_runtime setting => OFF
+OK: PHP magic_quotes_sybase setting => OFF
+OK: PHP GD Support => ON
+OK: GD Version => GD bundled (2.0.34 compatible)
+OK: PHP ZLIB Compression Support => ON
+OK: PHP OpenSSL Support => ON
+OK: PHP cURL Support => ON
+OK: CURL NON-SSL Capability => Okay
+OK: CURL SSL Capability => Okay
+OK: PHP Upload Support => ON  upload_max_filesize=16M;  post_max_size=8M
+OK: PHP Upload TMP dir => C:\PHP5\uploadtemp
+NA: PHP include_path => .;c:\PHP5
+NA: PHP SMTP destination => localhost
+NA: PHP sendmail path => 
+NA: PHP sendmail 'from' => 
+OK: PHP open_basedir restrictions => 
+OK: PHP Output Buffering (gzip) => ON
+OK: PHP FTP Support => ON
+OK: PHP XML Support => ON
+OK: PHP Session.Save_Path => D:\Inetpub\wingsxtremeu\order\cache-->Writeable
+FAIL: includes/configure.php =>  <span class='errors'>Unwriteable</span>
+OK: admin/includes/configure.php =>  Writeable
+OK: cache => OK 777 read/write/execute
+OK: images => OK 777 read/write/execute (INCLUDE SUBDIRECTORIES TOO)
+OK: includes/languages/english/html_includes => OK 777 read/write (INCLUDE SUBDIRECTORIES TOO)
+OK: media => OK 777 read/write/execute
+OK: pub => OK 777 read/write/execute
+OK: admin/backups => OK 777 read/write
+OK: admin/images/graphs => OK 777 read/write/execute
+PHP Extensions compiled: bcmath, calendar, com_dotnet, ctype, date, filter, ftp, hash, iconv, json, odbc, pcre, Reflection, session, libxml, standard, tokenizer, zlib, SimpleXML, dom, SPL, wddx, xml, xmlreader, xmlwriter, cgi-fcgi, mbstring, curl, exif, fdf, gd, gettext, imap, mcrypt, mhash, mssql, mysql, openssl, PDO, pdo_mssql, pdo_mysql, soap, sockets, tidy, xsl, ionCube Loader, Zend Optimizer
+------------------------------
+
+
+---------------
+Jul 11 2010 17:33 -- inspect
+store configure.php is not writeable
+
+---------------
+Jul 11 2010 17:33 -- inspect
+System Inspection Results: 
+------------------------------
+NA: Webserver => Microsoft-IIS/6.0
+NA: HTTP Host => wingsxtremeu.com
+NA: Path_Translated => D:\inetpub\wingsxtremeu\order\zc_install\index.php
+NA: Real Path => D:\Inetpub\wingsxtremeu\order
+NA: PHP O/S => WINNT
+NA: PHP API Mode => cgi-fcgi
+NA: PHP Max Execution Time per page => 30
+NA: Disabled PHP Functions => system,exec,passthru,shell_exec
+OK: Register Globals => OFF
+OK: MySQL Support => ON
+OK: PHP Version => 5.2.13
+OK: PHP Safe Mode => OFF
+OK: PHP Sessions Support => ON
+OK: PHP Session.AutoStart => OFF
+OK: PHP session.use_trans_sid => OFF
+OK: Suggested SQL Cache Folder => D:/Inetpub/wingsxtremeu/order/cache
+OK: PHP magic_quotes_runtime setting => OFF
+OK: PHP magic_quotes_sybase setting => OFF
+OK: PHP GD Support => ON
+OK: GD Version => GD bundled (2.0.34 compatible)
+OK: PHP ZLIB Compression Support => ON
+OK: PHP OpenSSL Support => ON
+OK: PHP cURL Support => ON
+OK: CURL NON-SSL Capability => Okay
+OK: CURL SSL Capability => Okay
+OK: PHP Upload Support => ON  upload_max_filesize=16M;  post_max_size=8M
+OK: PHP Upload TMP dir => C:\PHP5\uploadtemp
+NA: PHP include_path => .;c:\PHP5
+NA: PHP SMTP destination => localhost
+NA: PHP sendmail path => 
+NA: PHP sendmail 'from' => 
+OK: PHP open_basedir restrictions => 
+OK: PHP Output Buffering (gzip) => ON
+OK: PHP FTP Support => ON
+OK: PHP XML Support => ON
+OK: PHP Session.Save_Path => D:\Inetpub\wingsxtremeu\order\cache-->Writeable
+FAIL: includes/configure.php =>  <span class='errors'>Unwriteable</span>
+OK: admin/includes/configure.php =>  Writeable
+OK: cache => OK 777 read/write/execute
+OK: images => OK 777 read/write/execute (INCLUDE SUBDIRECTORIES TOO)
+OK: includes/languages/english/html_includes => OK 777 read/write (INCLUDE SUBDIRECTORIES TOO)
+OK: media => OK 777 read/write/execute
+OK: pub => OK 777 read/write/execute
+OK: admin/backups => OK 777 read/write
+OK: admin/images/graphs => OK 777 read/write/execute
+PHP Extensions compiled: bcmath, calendar, com_dotnet, ctype, date, filter, ftp, hash, iconv, json, odbc, pcre, Reflection, session, libxml, standard, tokenizer, zlib, SimpleXML, dom, SPL, wddx, xml, xmlreader, xmlwriter, cgi-fcgi, mbstring, curl, exif, fdf, gd, gettext, imap, mcrypt, mhash, mssql, mysql, openssl, PDO, pdo_mssql, pdo_mysql, soap, sockets, tidy, xsl, ionCube Loader, Zend Optimizer
+------------------------------
+
+
+---------------
+Jul 11 2010 17:33 -- inspect
+store configure.php is not writeable
+
+---------------
+Jul 11 2010 17:33 -- inspect
+System Inspection Results: 
+------------------------------
+NA: Webserver => Microsoft-IIS/6.0
+NA: HTTP Host => wingsxtremeu.com
+NA: Path_Translated => D:\inetpub\wingsxtremeu\order\zc_install\index.php
+NA: Real Path => D:\Inetpub\wingsxtremeu\order
+NA: PHP O/S => WINNT
+NA: PHP API Mode => cgi-fcgi
+NA: PHP Max Execution Time per page => 30
+NA: Disabled PHP Functions => system,exec,passthru,shell_exec
+OK: Register Globals => OFF
+OK: MySQL Support => ON
+OK: PHP Version => 5.2.13
+OK: PHP Safe Mode => OFF
+OK: PHP Sessions Support => ON
+OK: PHP Session.AutoStart => OFF
+OK: PHP session.use_trans_sid => OFF
+OK: Suggested SQL Cache Folder => D:/Inetpub/wingsxtremeu/order/cache
+OK: PHP magic_quotes_runtime setting => OFF
+OK: PHP magic_quotes_sybase setting => OFF
+OK: PHP GD Support => ON
+OK: GD Version => GD bundled (2.0.34 compatible)
+OK: PHP ZLIB Compression Support => ON
+OK: PHP OpenSSL Support => ON
+OK: PHP cURL Support => ON
+OK: CURL NON-SSL Capability => Okay
+OK: CURL SSL Capability => Okay
+OK: PHP Upload Support => ON  upload_max_filesize=16M;  post_max_size=8M
+OK: PHP Upload TMP dir => C:\PHP5\uploadtemp
+NA: PHP include_path => .;c:\PHP5
+NA: PHP SMTP destination => localhost
+NA: PHP sendmail path => 
+NA: PHP sendmail 'from' => 
+OK: PHP open_basedir restrictions => 
+OK: PHP Output Buffering (gzip) => ON
+OK: PHP FTP Support => ON
+OK: PHP XML Support => ON
+OK: PHP Session.Save_Path => D:\Inetpub\wingsxtremeu\order\cache-->Writeable
+FAIL: includes/configure.php =>  <span class='errors'>Unwriteable</span>
+OK: admin/includes/configure.php =>  Writeable
+OK: cache => OK 777 read/write/execute
+OK: images => OK 777 read/write/execute (INCLUDE SUBDIRECTORIES TOO)
+OK: includes/languages/english/html_includes => OK 777 read/write (INCLUDE SUBDIRECTORIES TOO)
+OK: media => OK 777 read/write/execute
+OK: pub => OK 777 read/write/execute
+OK: admin/backups => OK 777 read/write
+OK: admin/images/graphs => OK 777 read/write/execute
+PHP Extensions compiled: bcmath, calendar, com_dotnet, ctype, date, filter, ftp, hash, iconv, json, odbc, pcre, Reflection, session, libxml, standard, tokenizer, zlib, SimpleXML, dom, SPL, wddx, xml, xmlreader, xmlwriter, cgi-fcgi, mbstring, curl, exif, fdf, gd, gettext, imap, mcrypt, mhash, mssql, mysql, openssl, PDO, pdo_mssql, pdo_mysql, soap, sockets, tidy, xsl, ionCube Loader, Zend Optimizer
+------------------------------
+
+
+---------------
+Jul 11 2010 17:33 -- inspect
+store configure.php is not writeable
+
+---------------
+Jul 11 2010 17:33 -- inspect
+System Inspection Results: 
+------------------------------
+NA: Webserver => Microsoft-IIS/6.0
+NA: HTTP Host => wingsxtremeu.com
+NA: Path_Translated => D:\inetpub\wingsxtremeu\order\zc_install\index.php
+NA: Real Path => D:\Inetpub\wingsxtremeu\order
+NA: PHP O/S => WINNT
+NA: PHP API Mode => cgi-fcgi
+NA: PHP Max Execution Time per page => 30
+NA: Disabled PHP Functions => system,exec,passthru,shell_exec
+OK: Register Globals => OFF
+OK: MySQL Support => ON
+OK: PHP Version => 5.2.13
+OK: PHP Safe Mode => OFF
+OK: PHP Sessions Support => ON
+OK: PHP Session.AutoStart => OFF
+OK: PHP session.use_trans_sid => OFF
+OK: Suggested SQL Cache Folder => D:/Inetpub/wingsxtremeu/order/cache
+OK: PHP magic_quotes_runtime setting => OFF
+OK: PHP magic_quotes_sybase setting => OFF
+OK: PHP GD Support => ON
+OK: GD Version => GD bundled (2.0.34 compatible)
+OK: PHP ZLIB Compression Support => ON
+OK: PHP OpenSSL Support => ON
+OK: PHP cURL Support => ON
+OK: CURL NON-SSL Capability => Okay
+OK: CURL SSL Capability => Okay
+OK: PHP Upload Support => ON  upload_max_filesize=16M;  post_max_size=8M
+OK: PHP Upload TMP dir => C:\PHP5\uploadtemp
+NA: PHP include_path => .;c:\PHP5
+NA: PHP SMTP destination => localhost
+NA: PHP sendmail path => 
+NA: PHP sendmail 'from' => 
+OK: PHP open_basedir restrictions => 
+OK: PHP Output Buffering (gzip) => ON
+OK: PHP FTP Support => ON
+OK: PHP XML Support => ON
+OK: PHP Session.Save_Path => D:\Inetpub\wingsxtremeu\order\cache-->Writeable
+FAIL: includes/configure.php =>  <span class='errors'>Unwriteable</span>
+OK: admin/includes/configure.php =>  Writeable
+OK: cache => OK 777 read/write/execute
+OK: images => OK 777 read/write/execute (INCLUDE SUBDIRECTORIES TOO)
+OK: includes/languages/english/html_includes => OK 777 read/write (INCLUDE SUBDIRECTORIES TOO)
+OK: media => OK 777 read/write/execute
+OK: pub => OK 777 read/write/execute
+OK: admin/backups => OK 777 read/write
+OK: admin/images/graphs => OK 777 read/write/execute
+PHP Extensions compiled: bcmath, calendar, com_dotnet, ctype, date, filter, ftp, hash, iconv, json, odbc, pcre, Reflection, session, libxml, standard, tokenizer, zlib, SimpleXML, dom, SPL, wddx, xml, xmlreader, xmlwriter, cgi-fcgi, mbstring, curl, exif, fdf, gd, gettext, imap, mcrypt, mhash, mssql, mysql, openssl, PDO, pdo_mssql, pdo_mysql, soap, sockets, tidy, xsl, ionCube Loader, Zend Optimizer
+------------------------------
+
+
+---------------
+Jul 11 2010 17:33 -- inspect
+store configure.php is not writeable
+
+---------------
+Jul 11 2010 17:33 -- inspect
+System Inspection Results: 
+------------------------------
+NA: Webserver => Microsoft-IIS/6.0
+NA: HTTP Host => wingsxtremeu.com
+NA: Path_Translated => D:\inetpub\wingsxtremeu\order\zc_install\index.php
+NA: Real Path => D:\Inetpub\wingsxtremeu\order
+NA: PHP O/S => WINNT
+NA: PHP API Mode => cgi-fcgi
+NA: PHP Max Execution Time per page => 30
+NA: Disabled PHP Functions => system,exec,passthru,shell_exec
+OK: Register Globals => OFF
+OK: MySQL Support => ON
+OK: PHP Version => 5.2.13
+OK: PHP Safe Mode => OFF
+OK: PHP Sessions Support => ON
+OK: PHP Session.AutoStart => OFF
+OK: PHP session.use_trans_sid => OFF
+OK: Suggested SQL Cache Folder => D:/Inetpub/wingsxtremeu/order/cache
+OK: PHP magic_quotes_runtime setting => OFF
+OK: PHP magic_quotes_sybase setting => OFF
+OK: PHP GD Support => ON
+OK: GD Version => GD bundled (2.0.34 compatible)
+OK: PHP ZLIB Compression Support => ON
+OK: PHP OpenSSL Support => ON
+OK: PHP cURL Support => ON
+OK: CURL NON-SSL Capability => Okay
+OK: CURL SSL Capability => Okay
+OK: PHP Upload Support => ON  upload_max_filesize=16M;  post_max_size=8M
+OK: PHP Upload TMP dir => C:\PHP5\uploadtemp
+NA: PHP include_path => .;c:\PHP5
+NA: PHP SMTP destination => localhost
+NA: PHP sendmail path => 
+NA: PHP sendmail 'from' => 
+OK: PHP open_basedir restrictions => 
+OK: PHP Output Buffering (gzip) => ON
+OK: PHP FTP Support => ON
+OK: PHP XML Support => ON
+OK: PHP Session.Save_Path => D:\Inetpub\wingsxtremeu\order\cache-->Writeable
+FAIL: includes/configure.php =>  <span class='errors'>Unwriteable</span>
+OK: admin/includes/configure.php =>  Writeable
+OK: cache => OK 777 read/write/execute
+OK: images => OK 777 read/write/execute (INCLUDE SUBDIRECTORIES TOO)
+OK: includes/languages/english/html_includes => OK 777 read/write (INCLUDE SUBDIRECTORIES TOO)
+OK: media => OK 777 read/write/execute
+OK: pub => OK 777 read/write/execute
+OK: admin/backups => OK 777 read/write
+OK: admin/images/graphs => OK 777 read/write/execute
+PHP Extensions compiled: bcmath, calendar, com_dotnet, ctype, date, filter, ftp, hash, iconv, json, odbc, pcre, Reflection, session, libxml, standard, tokenizer, zlib, SimpleXML, dom, SPL, wddx, xml, xmlreader, xmlwriter, cgi-fcgi, mbstring, curl, exif, fdf, gd, gettext, imap, mcrypt, mhash, mssql, mysql, openssl, PDO, pdo_mssql, pdo_mysql, soap, sockets, tidy, xsl, ionCube Loader, Zend Optimizer
+------------------------------
+
+
+---------------
+Jul 11 2010 17:35 -- inspect
+store configure.php is not writeable
+
+---------------
+Jul 11 2010 17:35 -- inspect
+System Inspection Results: 
+------------------------------
+NA: Webserver => Microsoft-IIS/6.0
+NA: HTTP Host => wingsxtremeu.com
+NA: Path_Translated => D:\inetpub\wingsxtremeu\order\zc_install\index.php
+NA: Real Path => D:\Inetpub\wingsxtremeu\order
+NA: PHP O/S => WINNT
+NA: PHP API Mode => cgi-fcgi
+NA: PHP Max Execution Time per page => 30
+NA: Disabled PHP Functions => system,exec,passthru,shell_exec
+OK: Register Globals => OFF
+OK: MySQL Support => ON
+OK: PHP Version => 5.2.13
+OK: PHP Safe Mode => OFF
+OK: PHP Sessions Support => ON
+OK: PHP Session.AutoStart => OFF
+OK: PHP session.use_trans_sid => OFF
+OK: Suggested SQL Cache Folder => D:/Inetpub/wingsxtremeu/order/cache
+OK: PHP magic_quotes_runtime setting => OFF
+OK: PHP magic_quotes_sybase setting => OFF
+OK: PHP GD Support => ON
+OK: GD Version => GD bundled (2.0.34 compatible)
+OK: PHP ZLIB Compression Support => ON
+OK: PHP OpenSSL Support => ON
+OK: PHP cURL Support => ON
+OK: CURL NON-SSL Capability => Okay
+OK: CURL SSL Capability => Okay
+OK: PHP Upload Support => ON  upload_max_filesize=16M;  post_max_size=8M
+OK: PHP Upload TMP dir => C:\PHP5\uploadtemp
+NA: PHP include_path => .;c:\PHP5
+NA: PHP SMTP destination => localhost
+NA: PHP sendmail path => 
+NA: PHP sendmail 'from' => 
+OK: PHP open_basedir restrictions => 
+OK: PHP Output Buffering (gzip) => ON
+OK: PHP FTP Support => ON
+OK: PHP XML Support => ON
+OK: PHP Session.Save_Path => D:\Inetpub\wingsxtremeu\order\cache-->Writeable
+FAIL: includes/configure.php =>  <span class='errors'>Unwriteable</span>
+OK: admin/includes/configure.php =>  Writeable
+OK: cache => OK 777 read/write/execute
+OK: images => OK 777 read/write/execute (INCLUDE SUBDIRECTORIES TOO)
+OK: includes/languages/english/html_includes => OK 777 read/write (INCLUDE SUBDIRECTORIES TOO)
+OK: media => OK 777 read/write/execute
+OK: pub => OK 777 read/write/execute
+OK: admin/backups => OK 777 read/write
+OK: admin/images/graphs => OK 777 read/write/execute
+PHP Extensions compiled: bcmath, calendar, com_dotnet, ctype, date, filter, ftp, hash, iconv, json, odbc, pcre, Reflection, session, libxml, standard, tokenizer, zlib, SimpleXML, dom, SPL, wddx, xml, xmlreader, xmlwriter, cgi-fcgi, mbstring, curl, exif, fdf, gd, gettext, imap, mcrypt, mhash, mssql, mysql, openssl, PDO, pdo_mssql, pdo_mysql, soap, sockets, tidy, xsl, ionCube Loader, Zend Optimizer
+------------------------------
+
+
+---------------
+Jul 11 2010 17:35 -- inspect
+store configure.php is not writeable
+
+---------------
+Jul 11 2010 17:35 -- inspect
+System Inspection Results: 
+------------------------------
+NA: Webserver => Microsoft-IIS/6.0
+NA: HTTP Host => wingsxtremeu.com
+NA: Path_Translated => D:\inetpub\wingsxtremeu\order\zc_install\index.php
+NA: Real Path => D:\Inetpub\wingsxtremeu\order
+NA: PHP O/S => WINNT
+NA: PHP API Mode => cgi-fcgi
+NA: PHP Max Execution Time per page => 30
+NA: Disabled PHP Functions => system,exec,passthru,shell_exec
+OK: Register Globals => OFF
+OK: MySQL Support => ON
+OK: PHP Version => 5.2.13
+OK: PHP Safe Mode => OFF
+OK: PHP Sessions Support => ON
+OK: PHP Session.AutoStart => OFF
+OK: PHP session.use_trans_sid => OFF
+OK: Suggested SQL Cache Folder => D:/Inetpub/wingsxtremeu/order/cache
+OK: PHP magic_quotes_runtime setting => OFF
+OK: PHP magic_quotes_sybase setting => OFF
+OK: PHP GD Support => ON
+OK: GD Version => GD bundled (2.0.34 compatible)
+OK: PHP ZLIB Compression Support => ON
+OK: PHP OpenSSL Support => ON
+OK: PHP cURL Support => ON
+OK: CURL NON-SSL Capability => Okay
+OK: CURL SSL Capability => Okay
+OK: PHP Upload Support => ON  upload_max_filesize=16M;  post_max_size=8M
+OK: PHP Upload TMP dir => C:\PHP5\uploadtemp
+NA: PHP include_path => .;c:\PHP5
+NA: PHP SMTP destination => localhost
+NA: PHP sendmail path => 
+NA: PHP sendmail 'from' => 
+OK: PHP open_basedir restrictions => 
+OK: PHP Output Buffering (gzip) => ON
+OK: PHP FTP Support => ON
+OK: PHP XML Support => ON
+OK: PHP Session.Save_Path => D:\Inetpub\wingsxtremeu\order\cache-->Writeable
+FAIL: includes/configure.php =>  <span class='errors'>Unwriteable</span>
+OK: admin/includes/configure.php =>  Writeable
+OK: cache => OK 777 read/write/execute
+OK: images => OK 777 read/write/execute (INCLUDE SUBDIRECTORIES TOO)
+OK: includes/languages/english/html_includes => OK 777 read/write (INCLUDE SUBDIRECTORIES TOO)
+OK: media => OK 777 read/write/execute
+OK: pub => OK 777 read/write/execute
+OK: admin/backups => OK 777 read/write
+OK: admin/images/graphs => OK 777 read/write/execute
+PHP Extensions compiled: bcmath, calendar, com_dotnet, ctype, date, filter, ftp, hash, iconv, json, odbc, pcre, Reflection, session, libxml, standard, tokenizer, zlib, SimpleXML, dom, SPL, wddx, xml, xmlreader, xmlwriter, cgi-fcgi, mbstring, curl, exif, fdf, gd, gettext, imap, mcrypt, mhash, mssql, mysql, openssl, PDO, pdo_mssql, pdo_mysql, soap, sockets, tidy, xsl, ionCube Loader, Zend Optimizer
+------------------------------
+
+
+---------------
+Jul 11 2010 17:36 -- inspect
+System Inspection Results: 
+------------------------------
+NA: Webserver => Microsoft-IIS/6.0
+NA: HTTP Host => wingsxtremeu.com
+NA: Path_Translated => D:\inetpub\wingsxtremeu\order\zc_install\index.php
+NA: Real Path => D:\Inetpub\wingsxtremeu\order
+NA: PHP O/S => WINNT
+NA: PHP API Mode => cgi-fcgi
+NA: PHP Max Execution Time per page => 30
+NA: Disabled PHP Functions => system,exec,passthru,shell_exec
+OK: Register Globals => OFF
+OK: MySQL Support => ON
+OK: PHP Version => 5.2.13
+OK: PHP Safe Mode => OFF
+OK: PHP Sessions Support => ON
+OK: PHP Session.AutoStart => OFF
+OK: PHP session.use_trans_sid => OFF
+OK: Suggested SQL Cache Folder => D:/Inetpub/wingsxtremeu/order/cache
+OK: PHP magic_quotes_runtime setting => OFF
+OK: PHP magic_quotes_sybase setting => OFF
+OK: PHP GD Support => ON
+OK: GD Version => GD bundled (2.0.34 compatible)
+OK: PHP ZLIB Compression Support => ON
+OK: PHP OpenSSL Support => ON
+OK: PHP cURL Support => ON
+OK: CURL NON-SSL Capability => Okay
+OK: CURL SSL Capability => Okay
+OK: PHP Upload Support => ON  upload_max_filesize=16M;  post_max_size=8M
+OK: PHP Upload TMP dir => C:\PHP5\uploadtemp
+NA: PHP include_path => .;c:\PHP5
+NA: PHP SMTP destination => localhost
+NA: PHP sendmail path => 
+NA: PHP sendmail 'from' => 
+OK: PHP open_basedir restrictions => 
+OK: PHP Output Buffering (gzip) => ON
+OK: PHP FTP Support => ON
+OK: PHP XML Support => ON
+OK: PHP Session.Save_Path => D:\Inetpub\wingsxtremeu\order\cache-->Writeable
+OK: includes/configure.php =>  Writeable
+OK: admin/includes/configure.php =>  Writeable
+OK: cache => OK 777 read/write/execute
+OK: images => OK 777 read/write/execute (INCLUDE SUBDIRECTORIES TOO)
+OK: includes/languages/english/html_includes => OK 777 read/write (INCLUDE SUBDIRECTORIES TOO)
+OK: media => OK 777 read/write/execute
+OK: pub => OK 777 read/write/execute
+OK: admin/backups => OK 777 read/write
+OK: admin/images/graphs => OK 777 read/write/execute
+PHP Extensions compiled: bcmath, calendar, com_dotnet, ctype, date, filter, ftp, hash, iconv, json, odbc, pcre, Reflection, session, libxml, standard, tokenizer, zlib, SimpleXML, dom, SPL, wddx, xml, xmlreader, xmlwriter, cgi-fcgi, mbstring, curl, exif, fdf, gd, gettext, imap, mcrypt, mhash, mssql, mysql, openssl, PDO, pdo_mssql, pdo_mysql, soap, sockets, tidy, xsl, ionCube Loader, Zend Optimizer
+------------------------------
+
+
+---------------
+Jul 11 2010 17:36 -- inspect
+System Inspection Results: 
+------------------------------
+NA: Webserver => Microsoft-IIS/6.0
+NA: HTTP Host => wingsxtremeu.com
+NA: Path_Translated => D:\inetpub\wingsxtremeu\order\zc_install\index.php
+NA: Real Path => D:\Inetpub\wingsxtremeu\order
+NA: PHP O/S => WINNT
+NA: PHP API Mode => cgi-fcgi
+NA: PHP Max Execution Time per page => 30
+NA: Disabled PHP Functions => system,exec,passthru,shell_exec
+OK: Register Globals => OFF
+OK: MySQL Support => ON
+OK: PHP Version => 5.2.13
+OK: PHP Safe Mode => OFF
+OK: PHP Sessions Support => ON
+OK: PHP Session.AutoStart => OFF
+OK: PHP session.use_trans_sid => OFF
+OK: Suggested SQL Cache Folder => D:/Inetpub/wingsxtremeu/order/cache
+OK: PHP magic_quotes_runtime setting => OFF
+OK: PHP magic_quotes_sybase setting => OFF
+OK: PHP GD Support => ON
+OK: GD Version => GD bundled (2.0.34 compatible)
+OK: PHP ZLIB Compression Support => ON
+OK: PHP OpenSSL Support => ON
+OK: PHP cURL Support => ON
+OK: CURL NON-SSL Capability => Okay
+OK: CURL SSL Capability => Okay
+OK: PHP Upload Support => ON  upload_max_filesize=16M;  post_max_size=8M
+OK: PHP Upload TMP dir => C:\PHP5\uploadtemp
+NA: PHP include_path => .;c:\PHP5
+NA: PHP SMTP destination => localhost
+NA: PHP sendmail path => 
+NA: PHP sendmail 'from' => 
+OK: PHP open_basedir restrictions => 
+OK: PHP Output Buffering (gzip) => ON
+OK: PHP FTP Support => ON
+OK: PHP XML Support => ON
+OK: PHP Session.Save_Path => D:\Inetpub\wingsxtremeu\order\cache-->Writeable
+OK: includes/configure.php =>  Writeable
+OK: admin/includes/configure.php =>  Writeable
+OK: cache => OK 777 read/write/execute
+OK: images => OK 777 read/write/execute (INCLUDE SUBDIRECTORIES TOO)
+OK: includes/languages/english/html_includes => OK 777 read/write (INCLUDE SUBDIRECTORIES TOO)
+OK: media => OK 777 read/write/execute
+OK: pub => OK 777 read/write/execute
+OK: admin/backups => OK 777 read/write
+OK: admin/images/graphs => OK 777 read/write/execute
+PHP Extensions compiled: bcmath, calendar, com_dotnet, ctype, date, filter, ftp, hash, iconv, json, odbc, pcre, Reflection, session, libxml, standard, tokenizer, zlib, SimpleXML, dom, SPL, wddx, xml, xmlreader, xmlwriter, cgi-fcgi, mbstring, curl, exif, fdf, gd, gettext, imap, mcrypt, mhash, mssql, mysql, openssl, PDO, pdo_mssql, pdo_mysql, soap, sockets, tidy, xsl, ionCube Loader, Zend Optimizer
+------------------------------
+
+
+---------------
+Jul 11 2010 17:42 -- database_setup1
+Installer - Page: database_setup -- collected information: Array
+(
+    [language] => english
+    [DIR_FS_SQL_CACHE] => D:/Inetpub/wingsxtremeu/order/cache
+    [DB_TYPE] => mysql
+    [DB_PREFIX] => 
+    [DB_CHARSET] => latin1
+    [DB_SERVER] => MySQLC5.webcontrolcenter.com
+    [DB_SERVER_USERNAME] => xdqwzyja
+    [DB_SERVER_PASSWORD] => ZGtNNGR6VjZjR2wxV0ZaeU9XZDA=
+    [DB_DATABASE] => oedipus
+    [STORE_SESSIONS] => db
+    [USE_PCONNECT] => 
+    [SQL_CACHE_METHOD] => none
+)
+
+
+---------------
+Jul 11 2010 17:50 -- store_setup
+FATAL: Store owner is empty
+

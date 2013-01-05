@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /order/
+Disallow: /CGI-BIN/
+Disallow: /aspnet_client/
